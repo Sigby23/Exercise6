@@ -1,6 +1,12 @@
 Sequence = int(input())
 
+a, b, c, = 1, 2, 3
 
-for i in range(1, Sequence+1):
-    print(i)
-    for j in range()
+print(a)
+print(b)
+print(c)
+
+for i in range(3, Sequence):
+    d = a + b + c
+    print(d)
+    a,b,c = b, c, d

@@ -1,1 +1,1 @@
-print("Signý og Þórdís")
+input("Signý og Þórdís")

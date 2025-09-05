@@ -1,1 +1,1 @@
-print("Signý")
+print("Signý er æði")
